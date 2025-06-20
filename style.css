@@ -302,26 +302,26 @@ div#mobileSidebar {
 }
 
 .card-text1 {
-  background-image: url('/images/card-1.jpg');
+  background-image: url('./images/card-1.jpg');
   background-size: cover;
   background-position: center;
 }
 
 
 .card-text2 {
-  background-image: url('/images/card-2.jpg');
+  background-image: url('./images/card-2.jpg');
   background-size: cover;
   background-position: center;
 }
 
 .card-text3 {
-  background-image: url('/images/card-3.jpg');
+  background-image: url('./images/card-3.jpg');
   background-size: cover;
   background-position: center;
 }
 
 .card-text4 {
-  background-image: url('/images/card-4.jpg');
+  background-image: url('./images/card-4.jpg');
   background-size: cover;
   background-position: center;
 }
